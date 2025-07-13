@@ -1,0 +1,23 @@
+.cms-container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+}
+
+.cms-container input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.cms-container button {
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.preview {
+  margin-top: 20px;
+}
